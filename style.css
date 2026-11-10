@@ -1,0 +1,8 @@
+body { margin: 0; background: #0b0f1a; color: #e8ecf5; font: 17px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 48px 20px; }
+h1 { font-size: 2.2em; margin: 0 0 .2em; }
+h2 { margin-top: 1.8em; color: #5cf0b4; }
+a { color: #5cf0b4; }
+.tag { color: #ffd646; font-weight: 600; }
+nav { margin-top: 40px; padding-top: 16px; border-top: 1px solid #263048; font-size: .9em; }
+nav a { margin-right: 18px; }
